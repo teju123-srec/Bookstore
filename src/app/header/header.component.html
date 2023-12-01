@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+  <nav class="navbar navbar-expand-sm">
+    <div class="container-fluid">
+      <div class="collapse navbar-collapse" id="mynavbar">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item">
+            <!-- <img src="https://cdn-icons-png.flaticon.com/512/44/44312.png " style="width:30;height:30px;margin-left:10px;"/> -->
+            <a class="nav-link fs-1 " href="#" style="margin-left: 20px;">Bookly</a>
+          </li>
+        </ul>
+        <div  class="nav-search">
+          <input type="text" #searchinput (keyup)="searchbook($event)" (blur)="hidesearch()" placeholder="Search">
+          <button class="btn-dark" (click)="submitsearch(searchinput.value)">
+            <i class="bi bi-search fs-5" style="color: whitesmoke;"> </i>
+          </button>
+          <ul class="suggested-search" *ngIf="searchResult">
+            <li *ngFor="let item of searchResult">
+              <a (mousedown)="redirectToDetails(item.id)">{{item.title}}</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- <div [ngSwitch]="menutype">
+        <div *ngSwitchCase="'default'"> -->
+           <div>
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="fs-2" routerLink="/home" style="color: black; text-decoration: none; margin-right: 30px;">Home</a>
+              </li>
+              </ul>
+          </div>
+
+          <!-- <div>
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="fs-2" routerLink="/admin-dashboard" style="color: black; text-decoration: none; margin-right: 30px;">Admin</a>
+              </li>
+              </ul>
+          </div> -->
+
+        <div class="dropdown">
+          <a class="fs-2"routerLink="#" style="color: black; text-decoration: none; margin-right: 30px;">Category<i class="bi bi-caret-down"></i></a>
+          <div class="dropdown-content">
+          <a routerLink="/fiction">Fiction</a>
+          <a routerLink="/manga">Manga</a>
+          </div>
+        </div>
+
+      <div *ngIf="!isLoggedIn" >
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="fs-2" routerLink="/login" style="color: black; text-decoration: none; margin-right: 23px;">Login</a>
+          </li>
+          </ul>
+      </div>
+      <div *ngIf="isLoggedIn">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <button class="fs-2"  (click)="logOut()" style="color: black; background:none; border-style: none; margin-right: 23px;">Logout</button>
+          </li>
+          </ul>
+      </div>
+      <!-- <div >
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="fs-2" routerLink="/cart" style="color: black; text-decoration: none;">Cart<i class="bi bi-cart3"></i></a>
+          </li>
+          </ul>
+      </div> -->
+    </div>
+
+
+<!-- </div> -->
+<!-- <div *ngSwitchCase="'signup'">
+  <ul class="navbar-nav ms-auto">
+    <li class="nav-item">
+      <a class="fs-2" routerLink="/home" style="color: black; text-decoration: none; margin-right: 30px;">Home</a>
+    </li>
+    </ul>
+
+
+<div class="dropdown">
+<a class="fs-2"routerLink="#" style="color: black; text-decoration: none; margin-right: 30px;">Category<i class="bi bi-caret-down"></i></a>
+<div class="dropdown-content">
+<a routerLink="#">Manga</a>
+<a routerLink="#">Fiction</a>
+</div>
+</div>
+
+<div >
+<ul class="navbar-nav ms-auto">
+<li class="nav-item">
+  <a class="fs-2" routerLink="/login" style="color: black; text-decoration: none; margin-right: 23px;">Login</a>
+</li>
+</ul>
+</div>
+<div >
+<ul class="navbar-nav ms-auto">
+<li class="nav-item">
+  <a class="fs-2" routerLink="/cart" style="color: black; text-decoration: none;">Cart<i class="bi bi-cart3"></i></a>
+</li>
+</ul>
+</div>
+</div> -->
+
+  <!-- </div> -->
+
+
+  </nav>
+
+
+
+  </body>
+
+

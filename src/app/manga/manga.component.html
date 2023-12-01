@@ -1,0 +1,25 @@
+<app-header></app-header>
+<h3 style="color:#ea2e41; margin-top: 20px; text-align: center; font-style: italic; font-size: 40px; font-family: Conv_Cambria Italic !important;">The Manga shop</h3>
+<br>
+<img src="https://d2g9wbak88g7ch.cloudfront.net/promotionimages/1_promodetail.jpg" alt="" class="w-100 pl-2 pr-2" style="vertical-align: middle;width: 100%!important;max-width: 100%;margin-left: 15px;">
+<hr>
+<!-- <p style="color:#ea2e41; margin-top: 20px; text-align: center; font-style: italic; font-size: 40px; font-family: Conv_Cambria Italic !important;">Manga<p> -->
+ <div class="row search-item" *ngFor="let item of data">
+  <div class="col-sm-3">
+    <p>{{item.serialno}}</p>
+    <a routerLink="/bookdetails/{{item.id}}">
+    <img src="{{item.image}}" alt="">
+  </a>
+  </div>
+   <div class="col-sm-8 details">
+    <h6 style="color:#ea2e41;"><a routerLink="/bookdetails/{{item.id}}" style="text-decoration: none;">{{item.title}}</a></h6>
+    <p><b>{{item.author}}(Author)</b></p>
+    <hr>
+    <p><b>Price:₹{{item.price}}</b></p>
+   </div>
+ </div>
+<br>
+<div class="footer" style="margin-top:auto; ">
+  <app-footer></app-footer>
+  </div>
+

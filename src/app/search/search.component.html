@@ -1,0 +1,18 @@
+ <app-header></app-header>
+ <div class="row search-item" *ngFor="let item of searchResult">
+  <div class="col-sm-3">
+    <a routerLink="/bookdetails/{{item.id}}">
+    <img src="{{item.image}}" alt="">
+  </a>
+  </div>
+   <div class="col-sm-8 details">
+    <h6 style="color:#ea2e41;"> <a routerLink="/bookdetails/{{item.id}}" style="text-decoration: none;">{{item.title}}</a></h6>
+    <p><b>{{item.author}}(Author)</b></p>
+    <hr>
+    <p><b>₹{{item.price}}</b></p>
+   </div>
+ </div>
+<br><br><br>
+<div class="footer" style="margin-top:auto; ">
+  <app-footer></app-footer>
+  </div>

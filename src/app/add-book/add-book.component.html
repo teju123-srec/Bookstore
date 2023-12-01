@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+
+  <nav class="navbar navbar-expand-sm">
+    <div class="container-fluid">
+      <div class="collapse navbar-collapse" id="mynavbar">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item">
+            <!-- <img src="https://cdn-icons-png.flaticon.com/512/44/44312.png " style="width:30;height:30px;margin-left:10px;"/> -->
+            <a class="nav-link fs-1 " href="#" style="margin-left: 20px;">Bookly</a>
+          </li>
+        </ul>
+
+           <div>
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="fs-2" routerLink="/admin-dashboard" style="color: black; text-decoration: none; margin-right: 30px;">Dashboard</a>
+              </li>
+              </ul>
+          </div>
+
+          <div>
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="fs-2" routerLink="/add-book" style="color: black; text-decoration: none; margin-right: 30px;">Add Book</a>
+              </li>
+              </ul>
+          </div>
+
+
+      <div >
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="fs-2" routerLink="/login" style="color: black; text-decoration: none; margin-right: 23px;">Logout</a>
+          </li>
+          </ul>
+      </div>
+    </div>
+    </div>
+  </nav>
+<div class="container-fluid vh-100" style="margin-top:100px">
+  <div class="" style="margin-bottom:70px">
+      <div class="rounded d-flex justify-content-center">
+          <div class="col-md-4 col-sm-12 shadow-lg p-5 bg-light">
+              <div class="text-center">
+                  <h3 style="color:#e40046 ;">Add Book</h3>
+                  <p class="message-p">{{addmessage}}</p>
+                  </div>
+<form [formGroup]="addbook">
+  <div class="p-4">
+      <div class="input-group mb-3">
+          <input type="text" formControlName="title" class="form-control"  placeholder="Enter Book Name">
+          <div class="invalid-feedback" style="display: block;">
+            <small *ngIf="addbook.controls['title'].dirty && addbook.hasError('required','title')" class="text-danger">Title is required</small>
+          </div>
+        </div>
+        <div class="input-group mb-3">
+          <input type="text" formControlName="author" class="form-control"  placeholder="Enter Author Name">
+          <div class="invalid-feedback" style="display: block;">
+            <small *ngIf="addbook.controls['author'].dirty && addbook.hasError('required','author')" class="text-danger">Author name is required</small>
+          </div>
+        </div>
+
+        <div class="input-group mb-3">
+          <input type="text" formControlName="price" class="form-control"  placeholder="Enter Price">
+          <div class="invalid-feedback" style="display: block;">
+            <small *ngIf="addbook.controls['price'].dirty && addbook.hasError('required','price')" class="text-danger">Price is required</small>
+          </div>
+        </div>
+        <!-- <div class="dropdown">
+        <div class="input-group mb-3">
+          <input type="text" formControlName="category" class="form-control" placeholder="category">
+          <div class="invalid-feedback" style="display: block;">
+            <small *ngIf="addbook.controls['category'].dirty && addbook.hasError('required','category')" class="text-danger">Category is required</small>
+          </div>
+        </div>
+      </div> -->
+        <div class="input-group mb-3">
+          <textarea type="text" formControlName="description" class="form-control"  placeholder="Enter description"></textarea>
+          <div class="invalid-feedback" style="display: block;">
+            <small *ngIf="addbook.controls['description'].dirty && addbook.hasError('required','description')" class="text-danger">Desciption is required</small>
+          </div>
+        </div>
+        <div class="input-group mb-3">
+          <input type="text" formControlName="image" class="form-control"  placeholder="Enter Book Image Url">
+          <div class="invalid-feedback" style="display: block;">
+            <small *ngIf="addbook.controls['image'].dirty && addbook.hasError('required','image')" class="text-danger">Image url is required</small>
+          </div>
+        </div>
+         <p>Category:</p>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" formControlName="types" value="0" id="flexCheckDefault">
+            <label class="form-check-label" for="flexCheckDefault">
+              Trendingbooks
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" formControlName="types" value="1" id="flexCheckChecked" >
+            <label class="form-check-label" for="flexCheckChecked">
+              Bestbooks
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" formControlName="types" value="2" id="flexCheckChecked" >
+            <label class="form-check-label" for="flexCheckChecked">
+              Fiction
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" formControlName="types" value="3" id="flexCheckChecked" >
+            <label class="form-check-label" for="flexCheckChecked">
+              Manga
+            </label>
+          </div>
+          <br>
+        <button (click)="onaddbook()" class="btn btn-danger text-center mt-2" [disabled]="addbook.invalid"  type="submit">
+          Add book
+      </button>
+  </div>
+  </form>
+  </div>
+      </div>
+      </div>
+</div>
+<div class="footer" style="margin-top:auto; ">
+  <app-footer></app-footer>
+  </div>
+
+
+
+

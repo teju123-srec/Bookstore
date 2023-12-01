@@ -1,0 +1,32 @@
+<app-header></app-header>
+<div class="row book-details" *ngIf="bookdata">
+<div class="col-sm-6">
+  <img src="{{bookdata.image}}" alt="">
+</div>
+<div class="col-sm-6">
+  <div class="details">
+    <h1>{{bookdata.title}}</h1>
+    <h4>By: {{bookdata.author}}</h4>
+    <h3>₹{{bookdata.price}}</h3>
+    <hr>
+    <h6><p style="color: #ea2e41;">About the book</p>{{bookdata.description}}</h6>
+    <div class="button">
+    <button class="btn btn-dark">Buy Now</button>
+    <button class="btn btn-dark" (click)="addtocart()"  style="margin-left: 20px;">Add to cart</button>
+    <div class="bottom d-flex flex-row justify-content-center">
+      <div class="input-group mb-3">
+        <span class="input-group-text" (click)="handleQuantity('min')">-</span>
+        <input type="text" class="form-control" value="{{bookQuantity}}" />
+        <span class="input-group-text" (click)="handleQuantity('plus')">+</span>
+      </div>
+  </div>
+  </div>
+</div>
+</div>
+
+<div class="fixed-bottom">
+  <app-footer></app-footer>
+</div>
+
+
+

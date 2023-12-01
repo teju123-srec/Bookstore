@@ -1,0 +1,20 @@
+<app-header></app-header>
+<p style="color:#ea2e41; margin-top: 20px; text-align: center; font-style: italic; font-size: 40px; font-family: Conv_Cambria Italic !important;">Fiction Books<p>
+ <div class="row search-item" *ngFor="let item of data">
+  <div class="col-sm-3">
+    <p>{{item.serialno}}</p>
+    <a routerLink="/bookdetails/{{item.id}}">
+    <img src="{{item.image}}" alt="" >
+  </a>
+  </div>
+   <div class="col-sm-8 details">
+    <h6 style="color:#ea2e41;"> <a routerLink="/bookdetails/{{item.id}}" style="text-decoration: none;">{{item.title}}</a></h6>
+    <p><b>{{item.author}}(Author)</b></p>
+    <hr>
+    <p style="font-size: large;"><b>Price:₹{{item.price}}</b></p>
+   </div>
+ </div>
+<br>
+<div class="footer" style="margin-top:auto; ">
+  <app-footer></app-footer>
+  </div>
