@@ -1,0 +1,1091 @@
+{
+    "trendingbooks": [
+      {
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLAFxaQw_xDT9ntybqVCfLASntJv4zSJwB5Hs8f0LHhrzTjcMkqnVP-jZusurySWwqbtFt1CRjsbcVGLJcW_freTmgWwh-XvoZRgBpz2tLSBIUlY9Ig4nbrmckZWOY5cQZPQ&usqp=CAc",
+        "title": "One Piece, Vol.100",
+        "author": "Eiichiro Oda",
+        "price": "₹503",
+        "description": "The big powers converge as Luffy, Law, and Kid face off against Kaido and Big Mom. Is there any hope of victory against this ultimate alliance?! Onigashima quakes with power as some of the fiercest pirates in the world go head-to-head!!",
+        "id": 1
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/179/9781398518179.jpg",
+        "title": "It Starts with Us",
+        "author": "Colleen Hoover",
+        "price": "₹699",
+        "description": "Before It Ends with Us ,it started with Atlas.Colleen Hoover tells fan favourite Atlas' side of the story and shares what comes next in this long-anticipated sequel to the #1 Sunday Times bestseller It Ends with Us.",
+        "id": 2
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/287/9781974736287.jpg",
+        "title": "Spy X Family",
+        "author": "Tatsuya Endo",
+        "price": "₹578",
+        "description": "An action-packed comedy about a fake family that includes a spy, an assassin and a telepath!Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment--to get married and have a kid--he may finally be in over his head!",
+        "id": 3
+  
+      },
+  
+  
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/039/9781401958039.jpg",
+        "title": "The Light Seer's Tarot",
+        "author": "Chris-Anne",
+        "price": "₹1281",
+        "description": "By reimagining the traditional tarot archetypes and symbols in a contemporary, boho, and intuitive style, The Light Seer's Tarot expresses the light and shadow sides of our natures and explores the lessons that can be learned from both.",
+        "id": 4
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/939/9781974709939.jpg",
+        "title": "Chainsaw man",
+        "author": "Tatsuki Fujimoto",
+        "price": "₹577",
+        "description": "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous--Chainsaw Man!",
+        "id": 5
+  
+      },
+  
+  
+  
+      {
+        "image": "https://www.bookswagon.com/productimages/images200/815/9781444775815.jpg",
+        "title": " A Man Called Ove",
+        "author": "Fredrick Backman",
+        "price": "₹917",
+        "description": "The international phenomenon: quirky and bittersweet, heartbreaking yet outrageously funny, A Man Called Ove is a life-affirming fable for our times.",
+        "id": 6
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/906/9780143445906.jpg",
+        "title": "Something I Never Told You",
+        "author": "Shravya Bhinder",
+        "price": "₹340",
+        "description": "When in love, you tend to take each other for granted, and sometimes, that can cost you a lifetime of togetherness . . .Ronnie knew that his first crush was way out of his league, and yet he pursued and wooed Adira. Shyly and from a distance in the beginning, and more persuasively later. He couldn't believe it when the beautiful Adira actually began to reciprocate, falling in love with him for his simplicity and honesty.",
+        "id": 7
+  
+      }
+  
+    ],
+  
+    "bestbooks": [
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/278/9781087939278.jpg",
+        "title": "Twisted Love",
+        "author": "Ana Huang",
+        "price": "₹2,083",
+        "description": "Twisted Love is a brother's best friend/opposites attract romance with a hint of suspense. It's book one in the Twisted series but can be read as a standalone.",
+        "id": 1
+      },
+  
+      {
+        "image": "https://www.bookswagon.com/productimages/mainimages/000/9781569319000.jpg",
+        "title": "Naruto, Vol. 1",
+        "author": "Masashi Kishimoto",
+        "price": "₹548",
+        "description": "Naruto is a young shinobi with an incorrigible knack for mischief. He's got a wild sense of humor, but Naruto is completely serious about his mission to be the world's greatest ninja!",
+        "id": 2
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/720/9781786892720.jpg",
+        "title": "The Midnight Library",
+        "author": "Haig Matt Haig",
+        "price": "₹455",
+        "description": "The Midnight Library",
+        "id": 3
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/607/9781542025607.jpg",
+        "title": "Reminders of Him",
+        "author": "Colleen Hoover",
+        "price": "₹759",
+        "description": "A troubled young mother yearns for a shot at redemption in this heartbreaking yet hopeful story from #1 New York Times bestselling author Colleen Hoover.",
+        "id": 4
+      },
+  
+      {
+        "image": "https://www.bookswagon.com/productimages/mainimages/428/9780008172428.jpg",
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "price": "₹650",
+        "description": "Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another. Ten years in the writing, ALL THE LIGHT WE CANNOT SEE is his most ambitious and dazzling work.",
+        "id": 5
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/279/9781974717279.jpg",
+        "title": "Chainsaw Man, Vol. 4",
+        "author": "Tatsuki Fujimoto",
+        "price": "₹614",
+        "description": "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous--Chainsaw Man!",
+        "id": 6
+      },
+  
+      {
+        "image": "https://www.bookswagon.com/productimages/mainimages/355/9781538727355.jpg",
+        "title": "Archer's Voice",
+        "author": "Mia Sheridan",
+        "price": "₹1,016",
+        "description": "Fall in love with this emotional New York Times bestselling romance between two tortured souls who find their chance at happiness in the most unexpected way.",
+        "id": 7
+      }
+    ],
+  
+    "fiction": [
+      {
+  
+        "serialno": 1,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/278/9781087939278.jpg",
+        "title": "Twisted Love",
+        "author": "Ana Huang",
+        "price": "₹2,083",
+        "description": "Twisted Love is a brother's best friend/opposites attract romance with a hint of suspense. It's book one in the Twisted series but can be read as a standalone.",
+        "id": 1
+      },
+  
+      {
+  
+        "serialno": 2,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/179/9781398518179.jpg",
+        "title": "It Starts with Us",
+        "author": "Colleen Hoover",
+        "price": "₹699",
+        "description": "Before It Ends with Us ,it started with Atlas.Colleen Hoover tells fan favourite Atlas' side of the story and shares what comes next in this long-anticipated sequel to the #1 Sunday Times bestseller It Ends with Us.",
+        "id": 2
+  
+      },
+  
+      {
+        "serialno": 3,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/179/9781398518179.jpg",
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "price": "₹599",
+        "description": "An honest, evocative, and tender novel, It Ends with Us is a glorious and touching read, a forever keeper. The kind of book that gets handed down",
+        "id": 3
+      },
+  
+      {
+        "serialno": 4,
+        "image": "https://www.bookswagon.com/productimages/images200/815/9781444775815.jpg",
+        "title": " A Man Called Ove",
+        "author": "Fredrick Backman",
+        "price": "₹917",
+        "description": "The international phenomenon: quirky and bittersweet, heartbreaking yet outrageously funny, A Man Called Ove is a life-affirming fable for our times.",
+        "id": 4
+  
+      },
+  
+      {
+        "serialno": 5,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/720/9781786892720.jpg",
+        "title": "The Midnight Library",
+        "author": "Haig Matt Haig",
+        "price": "₹455",
+        "description": "The Midnight Library",
+        "id": 5
+      },
+  
+      {
+        "serialno": 6,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/607/9781542025607.jpg",
+        "title": "Reminders of Him",
+        "author": "Colleen Hoover",
+        "price": "₹759",
+        "description": "A troubled young mother yearns for a shot at redemption in this heartbreaking yet hopeful story from #1 New York Times bestselling author Colleen Hoover.",
+        "id": 6
+      },
+  
+      {
+        "serialno": 7,
+        "image": "https://www.bookswagon.com/productimages/mainimages/428/9780008172428.jpg",
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "price": "₹650",
+        "description": "Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another. Ten years in the writing, ALL THE LIGHT WE CANNOT SEE is his most ambitious and dazzling work.",
+        "id": 7
+      },
+  
+      {
+        "serialno": 8,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/341/9780143448341.jpg",
+        "title": "Touch of Eternity",
+        "author": "DATTA DURJOY",
+        "price": "₹199",
+        "description": "Born on the same day and at the same time, Druvan and Anvesha know they are soulmates in every sense of the word. Their parents, however, refuse to accept their 'togetherness' at first and try to tear them apart. Druvan and Anvesha try their best to explain why that cannot happen.",
+        "id": 8
+      },
+  
+      {
+        "serialno": 9,
+        "image": "https://www.bookswagon.com/productimages/mainimages/355/9781538727355.jpg",
+        "title": "Archer's Voice",
+        "author": "Mia Sheridan",
+        "price": "₹1,016",
+        "description": "Fall in love with this emotional New York Times bestselling romance between two tortured souls who find their chance at happiness in the most unexpected way.",
+        "id": 9
+      },
+  
+      {
+        "serialno": 10,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/906/9780143445906.jpg",
+        "title": "Something I Never Told You",
+        "author": "Shravya Bhinder",
+        "price": "₹340",
+        "description": "When in love, you tend to take each other for granted, and sometimes, that can cost you a lifetime of togetherness . . .Ronnie knew that his first crush was way out of his league, and yet he pursued and wooed Adira. Shyly and from a distance in the beginning, and more persuasively later. He couldn't believe it when the beautiful Adira actually began to reciprocate, falling in love with him for his simplicity and honesty.",
+        "id": 10
+  
+      },
+  
+      {
+        "serialno": 11,
+        "image": "https://www.bookswagon.com/productimages/images200/344/9781501110344.jpg",
+        "title": "November 9 ",
+        "author": "Colleen Hoover",
+        "price": "₹499",
+        "description": "Fallon meets Ben, an aspiring novelist, the day before her scheduled cross-country move. Their untimely attraction leads them to spend Fallon's last day in Los Angeles together, and her eventful life becomes the creative inspiration Ben has always sought for his novel. Over time and amidst the various relationships and tribulations of their own separate lives, they continue to meet on the same date every year. Until one day Fallon becomes unsure if Ben has been telling her the truth or fabricating a perfect reality for the sake of the ultimate plot twist.",
+        "id": 11
+  
+      },
+  
+      {
+        "serialno": 12,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/482/9780099549482.jpg",
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "price": "₹450",
+        "description": "Atticus Finch lives in the fictional town of Maycomb in Alabama and as it is with the Deep South, the southern traditions of relations in race and gender are at the center of this masterpiece. His daughter, Scout is the narrator of the story and she lives with her widowed father and brother. To Kill A Mockingbird first explores the customs of the South, laying down all the quirks and foibles of the neighbors and people that Scout interacts with through her childhood days.",
+        "id": 12
+  
+      },
+  
+      {
+        "serialno": 13,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/837/9781501160837.jpg",
+        "title": "Anxious People ",
+        "author": "Fredrik Backman",
+        "price": "₹550",
+        "description": "Rich with Fredrik Backman's pitch-perfect dialogue and an unparalleled understanding of human nature (Shelf Awareness), Anxious People is an ingeniously constructed story about the enduring power of friendship, forgiveness, and hope--the things that save us, even in the most anxious times.",
+        "id": 13
+  
+      },
+  
+      {
+        "serialno": 14,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/685/9781529110685.jpg",
+        "title": "On Earth We're Briefly Gorgeous",
+        "author": "Ocean Vuong",
+        "price": "₹499",
+        "description": "Brilliant, heartbreaking and highly original, Ocean Vuong's debut novel is a shattering portrait of a family, and a testament to the redemptive power of storytelling. 'A marvel' Marlon JamesThis is a letter from a son to a mother who cannot read.",
+        "id": 14
+  
+      },
+  
+      {
+        "serialno": 15,
+        "image": "https://www.bookswagon.com/productimages/images200/676/9781408855676.jpg",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J. K. Rowling",
+        "price": "₹599",
+        "description": "Harry Potter is lucky to reach the age of thirteen, since he has survived the murderous attacks of the feared Dark Lord on more than one occasion. His hopes for a quiet school term concentrating on Quidditch are dashed, though, when a maniacal mass-murderer escapes from Azkaban, pursued by the soul-sucking Dementors who guard the prison. It’s assumed that Hogwarts is the safest place for Harry to be. But is it his imagination that is making him feel eyes watching him in the dark, and should he be taking Professor Trelawney’s ghoulish predictions seriously?",
+        "id": 15
+  
+      },
+  
+      {
+        "serialno": 16,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/668/9781472154668.jpg",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "price": "₹499",
+        "description": "Perfect for fans of Barbara Kingsolver and Celeste Ng, Where the Crawdads Sing is at once an exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder.",
+        "id": 16
+  
+      },
+  
+      {
+        "serialno": 17,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/434/9788129120434.jpg",
+        "title": "Falling in Love Again",
+        "author": "Ruskin Bond",
+        "price": "₹395",
+        "description": "Once I saw her, leaning over the balcony railing. I stopped the taxi and waved to her. She waved back, smiling like the sun breaking through clouds. Suffused with warmth and passion, the stories in Falling in Love Again showcase the myriad variations of romantic love-fleeting, intimate, joyous, heartbreaking. Featuring classic stories by Ruskin Bond, such as 'The Eyes Have It' and 'The Girl from Copenhagen', this stirring collection captures the range of feelings that are indubitably part of the infinite spectrum of love. With an introduction by Ruskin Bond, this unique compilation will appeal to readers of all ages. A collection that captures love in all its forms, this book is a must-read for readers of short fiction. The stories have been compiled thematically and have been selected by Ruskin Bond himself.",
+        "id": 17
+  
+      },
+  
+      {
+        "serialno": 18,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/024/9789388860024.jpg",
+        "title": "Ponniyin selvan",
+        "author": "Kalki",
+        "price": "₹1987",
+        "description": "Ponniyin Selvan is Kalki R Krishnamurthy's magnum opus, set in 10th century Tamil Nadu, exploring the early life of Emperor Rajaraja the 1st. It might have been written more than 60 years ago, but this saga is timeless, reeling in readers with a gripping plot interwoven with intrigue, conspiracies, mystery, romance and adventure. Fresh Floods is Book 1 of a total of five volumes. Who is the rightful heir to the ancient Chozha throne? Will Madhuranthakar-son of the eldest son-or Aditha Karikalan-the grandson of the younger-wear the crown? And will justice prevail in this struggle for power? Follow our young, enthusiastic hero Vallavarayan Vandhiyathevan on his fascinating journey, as this historical fiction based on real characters and incidents unfolds at a spell-binding pace, delving deep into human tendencies, desires, personal motives, political ambitions and the fight to gain power at all costs.",
+        "id": 18
+  
+      },
+  
+      {
+        "serialno": 19,
+        "image": "https://www.bookswagon.com/productimages/images200/323/9781501193323.jpg",
+        "title": "All Your Perfects",
+        "author": "Colleen Hoover",
+        "price": "₹599",
+        "description": "All Your Perfects is a profound novel about a damaged couple whose potential future hinges on promises made in the past. This is a heartbreaking page-turner that asks: Can a resounding love with a perfect beginning survive a lifetime between two imperfect people?",
+        "id": 19
+  
+      },
+  
+      {
+        "serialno": 20,
+        "image": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
+        "title": "Red, White & Royal Blue",
+        "author": "Casey McQuiston ",
+        "price": "₹924",
+        "description": "Red, White & Royal Blue is outrageously fun. It is romantic, sexy, witty, and thrilling",
+        "id": 20
+  
+      },
+  
+      {
+        "serialno": 21,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/062/9780062918062.jpg",
+        "title": "The Upside of Falling",
+        "author": "Alex Light",
+        "price": "₹949",
+        "description": "A fun, flirty teen debut from Wattpad phenom Alex Light about a fake relationship and real love. Perfect for Jenny Han fans.",
+        "id": 21
+  
+      }
+    ],
+  
+    "manga": [
+      {
+  
+        "serialno": 1,
+        "image": "https://www.bookswagon.com/productimages/images200/017/9781569319017.jpg",
+        "title": "One Piece, Vol. 1",
+        "author": "Eiichiro Oda",
+        "price": "₹548",
+        "description": "As a child, Monkey D. Luffy dreamed of becoming King of the Pirates. But his life changed when he accidentally gained the power to stretch like rubber...at the cost of never being able to swim again! Years, later, Luffy sets off in search of the One Piece,said to be the greatest treasure in the world...",
+        "id": 1
+      },
+  
+      {
+  
+        "serialno": 2,
+        "image": "https://www.bookswagon.com/productimages/images200/000/9781569319000.jpg",
+        "title": "Naruto, Vol.1",
+        "author": "Masashi Kishimoto",
+        "price": "₹548",
+        "description": "Naruto is a young shinobi with an incorrigible knack for mischief. He's got a wild sense of humor, but Naruto is completely serious about his mission to be the world's greatest ninja!",
+        "id": 2
+  
+      },
+  
+      {
+        "serialno": 3,
+        "image": "https://www.bookswagon.com/productimages/images200/928/9781421539928.jpg",
+        "title": "Bleach (3-In-1 Edition), Vol. 1, 1 ",
+        "author": " Tite Kubo",
+        "price": "₹774",
+        "description": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits, and along with Rukia--who is slowly regaining her powers--it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace.",
+        "id": 3
+      },
+  
+      {
+        "serialno": 4,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/990/9781974719990.jpg",
+        "title": "One Piece, Vol. 96 ",
+        "author": "Eiichiro Oda",
+        "price": "₹840",
+        "description": "During his journey with Whitebeard's crew, Oden encounters the legendary future pirate king Gold Roger! What does their meeting mean for the world? And what has Orochi been up to while Oden was gone from Wano?!",
+        "id": 4
+  
+      },
+  
+      {
+        "serialno": 5,
+        "image": "https://www.bookswagon.com/productimages/images200/677/9781421587677.jpg",
+        "title": "Haikyu!!, Vol. 2 ",
+        "author": "Haruichi Furudate",
+        "price": "₹506",
+        "description": "After proving themselves to be the ultimate combination in their practice match against Kei Tsukishima, Kageyama and Hinata are finally allowed to join the club! Hinata's true power--to perfectly time his spikes with his eyes closed--is awakened, and nothing can seem to stop this crazy setter-spiker duo. Now their skills are about to be put to the test at a practice game against one of Kageyama's former teammates from middle school, Tohru Oikawa.",
+        "id": 5
+      },
+  
+      {
+        "serialno": 6,
+        "image": "https://www.bookswagon.com/productimages/images200/418/9781591164418.jpg",
+        "title": "Bleach, Vol. 1 ",
+        "author": "Tite Kubo ",
+        "price": "₹592",
+        "description": "Part-time student, full-time Soul Reaper, Ichigo is one of the chosen few guardians of the afterlife.",
+        "id": 6
+      },
+  
+      {
+        "serialno": 7,
+        "image": "https://www.bookswagon.com/productimages/images200/757/9781421579757.jpg",
+        "title": "Naruto, Vol. 70",
+        "author": "Masashi Kishimoto",
+        "price": "₹840",
+        "description": "In order to face off against Madara and his newly acquired Six Paths power, Guy pulls out his most dangerous move. Guy has put his very life on the line, but is it enough against Madara? Meanwhile, as Naruto fights on the edge of death, he meets a special figure who may change the entire direction of the battle!",
+        "id": 7
+      },
+  
+      {
+        "serialno": 8,
+        "image": "https://www.bookswagon.com/productimages/images200/523/9781974700523.jpg",
+        "title": "Demon Slayer: Kimetsu No Yaiba, Vol. 1",
+        "author": "Koyoharu Gotouge",
+        "price": "₹532",
+        "description": "Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family!",
+        "id": 8
+      },
+  
+      {
+        "serialno": 9,
+        "image": "https://www.bookswagon.com/productimages/images200/591/9781421539591.jpg",
+        "title": "One Piece, Vol.59",
+        "author": "Eiichiro Oda",
+        "price": "₹552",
+        "description": "After risking everything he had to save his brother, Luffy experiences heartbreak as Ace dies in his arms. Whitebeard will make one last stand against the Navy forces but when the epic pirate war finally comes to an end, the entire world will be shaken!",
+        "id": 9
+      },
+  
+      {
+        "serialno": 10,
+        "image": "https://www.bookswagon.com/productimages/images200/660/9781421587660.jpg",
+        "title": "Haikyu!!, Vol. 1 ",
+        "author": "Haruichi Furudate",
+        "price": "₹582",
+        "description": "Ever since he saw the legendary player known as the Little Giant compete at the national volleyball finals, Shoyo Hinata has been aiming to be the best volleyball player ever! Who says you need to be tall to play volleyball when you can jump higher than anyone else?",
+        "id": 10
+  
+      },
+  
+      {
+        "serialno": 11,
+        "image": "https://www.bookswagon.com/productimages/images200/434/9781421528434.jpg",
+        "title": "Naruto, Vol. 42 ",
+        "author": "Masashi Kishimoto",
+        "price": "₹830",
+        "description": "To truly end the Akatsuki's reign of pain, Naruto's teacher Jiraiya must delve deep into the past to uncover the secret of Pain's origin. At the same time, Sasuke moves toward the final battle of the Uchiha brothers when he closes in on the elusive Itachi!",
+        "id": 11
+  
+      },
+  
+      {
+        "serialno": 12,
+        "image": "https://www.bookswagon.com/productimages/images200/456/9781421506456.jpg",
+        "title": "Hunter X Hunter, Vol. 10",
+        "author": "Yoshihiro Togashi",
+        "price": "₹548",
+        "description": "Plucky Gon's quest to find his dad leads him into a whole world of crazy adventure.",
+        "id": 12
+  
+      },
+  
+      {
+        "serialno": 13,
+        "image": "https://www.bookswagon.com/productimages/images200/820/9781421558820.jpg",
+        "title": "Bleach, Vol. 57 ",
+        "author": "Tite Kubo",
+        "price": "₹830",
+        "description": "With Ichigo trapped in Hueco Mundo, the Soul Society comes under attack by a mysterious group of warriors calling themselves the Vandenreich. The Soul Reaper captains valiantly stand up to the invaders, but this is a battle they might not be able to win!",
+        "id": 13
+  
+      },
+  
+      {
+        "serialno": 14,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/381/9781974728381.jpg",
+        "title": "Demon Slayer: Kimetsu No Yaiba--Stories of Water and Flame ",
+        "author": "Ryoji Hirano",
+        "price": "₹580",
+        "description": "Savage demons devour unsuspecting humans in Taisho-era Japan. Armed with special swords, the Demon Slayer Corps fights to stop the devastation demons spread. Giyu Tomioka, the sole Water Hashira, and Kyojuro Rengoku, a high-ranking Kinoe, embark on missions to eliminate demons and prove their mettle as two of the fiercest Demon Slayers.",
+        "id": 14
+  
+      },
+  
+      {
+        "serialno": 15,
+        "image": "https://www.bookswagon.com/productimages/images200/244/9781612620244.jpg",
+        "title": "Attack on Titan 1",
+        "author": "Hajime Isayama",
+        "price": "₹799",
+        "description": "In this post-apocalyptic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
+        "id": 15
+  
+      },
+  
+      {
+        "serialno": 16,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/122/9781974718122.jpg",
+        "title": "Haikyu!!, Vol. 41 ",
+        "author": "Haruichi Furudate",
+        "price": "₹540",
+        "description": "It's the second game of day 3, the roughest part of the Spring Tournament schedule. Even though Karasuno has run away with set 2, Kamomedai's focused, disciplined blocking doesn't budge! Undeterred, Hinata keeps searching for new ways to get over that wall. But after all his efforts, disaster strikes!",
+        "id": 16
+  
+      },
+  
+      {
+        "serialno": 17,
+        "image": "https://www.bookswagon.com/productimages/images200/471/9781421596471.jpg",
+        "title": "Dragon Ball Super, Vol.2",
+        "author": "Akira Toriyama",
+        "price": "₹595",
+        "description": "Ever since Goku became Earth's greatest hero and gathered the seven Dragon Balls to defeat the evil Boo, his life on Earth has grown a little dull. But new threats loom overhead, and Goku and his friends will have to defend the planet once again in this continuation of Akira Toriyama's best-selling series, Dragon Ball!",
+        "id": 17
+  
+      },
+  
+      {
+        "serialno": 18,
+        "image": "https://www.bookswagon.com/productimages/images200/295/9781421529295.jpg",
+        "title": "Naruto, Vol. 43",
+        "author": "Masashi Kishimoto",
+        "price": "₹830",
+        "description": "The time has come for the secrets of the Uchiha to be told. What Sasuke finally finds out about his family's damaged past will rock Naruto's former teammate to the core of his existence. Prepare for the ultimate reveal. It's time to change the world of Naruto forever!",
+        "id": 18
+  
+      },
+  
+      {
+        "serialno": 19,
+        "image": "https://www.bookswagon.com/productimages/images200/324/9781642750324.jpg",
+        "title": "I Want to Eat Your Pancreas: The Complete Manga Collection ",
+        "author": "Yoru Sumino ",
+        "price": "₹1123",
+        "description": "Also known as Let Me Eat Your Pancreas, the manga version of the coming-of-age novel that inspired two films! In this deeply moving first-person story, an introverted high school boy finds his classmate's diary--and learns her biggest secret. Yamauchi Sakura is dying from a pancreatic disease and now he is the only one person outside her family to know the truth. The last thing the boy wants is to be her friend, but Sakura's cheerful demeanor and their shared secret draw them together in this heartrending tale of friendship and mortality.",
+        "id": 19
+  
+      },
+  
+      {
+        "serialno": 20,
+        "image": "https://www.bookswagon.com/productimages/images200/556/9780316558556.jpg",
+        "title": "Your Name., Vol. 1",
+        "author": "Makoto Shinkai",
+        "price": "₹809",
+        "description": "A story of two people determined to hold on to one another.Mitsuha, a high school girl from a town deep in the mountains, dreams of an unfamiliar life in Tokyo. Taki, a high school boyfrom Tokyo, dreams that he is a girl living in the mountains. Asthe two begin swapping lives, a miraculous story is set in motion.",
+        "id": 20
+  
+      }
+  
+    ],
+  
+    "books": [
+      {
+  
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/278/9781087939278.jpg",
+        "title": "Twisted Love",
+        "author": "Ana Huang",
+        "price": "₹2,083",
+        "description": "Twisted Love is a brother's best friend/opposites attract romance with a hint of suspense. It's book one in the Twisted series but can be read as a standalone.",
+        "id": 1
+      },
+  
+      {
+  
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/179/9781398518179.jpg",
+        "title": "It Starts with Us",
+        "author": "Colleen Hoover",
+        "price": "₹699",
+        "description": "Before It Ends with Us ,it started with Atlas.Colleen Hoover tells fan favourite Atlas' side of the story and shares what comes next in this long-anticipated sequel to the #1 Sunday Times bestseller It Ends with Us.",
+        "id": 2
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/179/9781398518179.jpg",
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "price": "₹599",
+        "description": "An honest, evocative, and tender novel, It Ends with Us is a glorious and touching read, a forever keeper. The kind of book that gets handed down",
+        "id": 3
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/images200/815/9781444775815.jpg",
+        "title": " A Man Called Ove",
+        "author": "Fredrick Backman",
+        "price": "₹917",
+        "description": "The international phenomenon: quirky and bittersweet, heartbreaking yet outrageously funny, A Man Called Ove is a life-affirming fable for our times.",
+        "id": 4
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/720/9781786892720.jpg",
+        "title": "The Midnight Library",
+        "author": "Haig Matt Haig",
+        "price": "₹455",
+        "description": "The Midnight Library",
+        "id": 5
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/607/9781542025607.jpg",
+        "title": "Reminders of Him",
+        "author": "Colleen Hoover",
+        "price": "₹759",
+        "description": "A troubled young mother yearns for a shot at redemption in this heartbreaking yet hopeful story from #1 New York Times bestselling author Colleen Hoover.",
+        "id": 6
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/mainimages/428/9780008172428.jpg",
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "price": "₹650",
+        "description": "Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another. Ten years in the writing, ALL THE LIGHT WE CANNOT SEE is his most ambitious and dazzling work.",
+        "id": 7
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/341/9780143448341.jpg",
+        "title": "Touch of Eternity",
+        "author": "DATTA DURJOY",
+        "price": "₹199",
+        "description": "Born on the same day and at the same time, Druvan and Anvesha know they are soulmates in every sense of the word. Their parents, however, refuse to accept their 'togetherness' at first and try to tear them apart. Druvan and Anvesha try their best to explain why that cannot happen.",
+        "id": 8
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/mainimages/355/9781538727355.jpg",
+        "title": "Archer's Voice",
+        "author": "Mia Sheridan",
+        "price": "₹1,016",
+        "description": "Fall in love with this emotional New York Times bestselling romance between two tortured souls who find their chance at happiness in the most unexpected way.",
+        "id": 9
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/906/9780143445906.jpg",
+        "title": "Something I Never Told You",
+        "author": "Shravya Bhinder",
+        "price": "₹340",
+        "description": "When in love, you tend to take each other for granted, and sometimes, that can cost you a lifetime of togetherness . . .Ronnie knew that his first crush was way out of his league, and yet he pursued and wooed Adira. Shyly and from a distance in the beginning, and more persuasively later. He couldn't believe it when the beautiful Adira actually began to reciprocate, falling in love with him for his simplicity and honesty.",
+        "id": 10
+  
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/images200/344/9781501110344.jpg",
+        "title": "November 9 ",
+        "author": "Colleen Hoover",
+        "price": "₹499",
+        "description": "Fallon meets Ben, an aspiring novelist, the day before her scheduled cross-country move. Their untimely attraction leads them to spend Fallon's last day in Los Angeles together, and her eventful life becomes the creative inspiration Ben has always sought for his novel. Over time and amidst the various relationships and tribulations of their own separate lives, they continue to meet on the same date every year. Until one day Fallon becomes unsure if Ben has been telling her the truth or fabricating a perfect reality for the sake of the ultimate plot twist.",
+        "id": 11
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/482/9780099549482.jpg",
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "price": "₹450",
+        "description": "Atticus Finch lives in the fictional town of Maycomb in Alabama and as it is with the Deep South, the southern traditions of relations in race and gender are at the center of this masterpiece. His daughter, Scout is the narrator of the story and she lives with her widowed father and brother. To Kill A Mockingbird first explores the customs of the South, laying down all the quirks and foibles of the neighbors and people that Scout interacts with through her childhood days.",
+        "id": 12
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/837/9781501160837.jpg",
+        "title": "Anxious People ",
+        "author": "Fredrik Backman",
+        "price": "₹550",
+        "description": "Rich with Fredrik Backman's pitch-perfect dialogue and an unparalleled understanding of human nature (Shelf Awareness), Anxious People is an ingeniously constructed story about the enduring power of friendship, forgiveness, and hope--the things that save us, even in the most anxious times.",
+        "id": 13
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/685/9781529110685.jpg",
+        "title": "On Earth We're Briefly Gorgeous",
+        "author": "Ocean Vuong",
+        "price": "₹499",
+        "description": "Brilliant, heartbreaking and highly original, Ocean Vuong's debut novel is a shattering portrait of a family, and a testament to the redemptive power of storytelling. 'A marvel' Marlon JamesThis is a letter from a son to a mother who cannot read.",
+        "id": 14
+  
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/images200/676/9781408855676.jpg",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J. K. Rowling",
+        "price": "₹599",
+        "description": "Harry Potter is lucky to reach the age of thirteen, since he has survived the murderous attacks of the feared Dark Lord on more than one occasion. His hopes for a quiet school term concentrating on Quidditch are dashed, though, when a maniacal mass-murderer escapes from Azkaban, pursued by the soul-sucking Dementors who guard the prison. It’s assumed that Hogwarts is the safest place for Harry to be. But is it his imagination that is making him feel eyes watching him in the dark, and should he be taking Professor Trelawney’s ghoulish predictions seriously?",
+        "id": 15
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/668/9781472154668.jpg",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "price": "₹499",
+        "description": "Perfect for fans of Barbara Kingsolver and Celeste Ng, Where the Crawdads Sing is at once an exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder.",
+        "id": 16
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/434/9788129120434.jpg",
+        "title": "Falling in Love Again",
+        "author": "Ruskin Bond",
+        "price": "₹395",
+        "description": "Once I saw her, leaning over the balcony railing. I stopped the taxi and waved to her. She waved back, smiling like the sun breaking through clouds. Suffused with warmth and passion, the stories in Falling in Love Again showcase the myriad variations of romantic love-fleeting, intimate, joyous, heartbreaking. Featuring classic stories by Ruskin Bond, such as 'The Eyes Have It' and 'The Girl from Copenhagen', this stirring collection captures the range of feelings that are indubitably part of the infinite spectrum of love. With an introduction by Ruskin Bond, this unique compilation will appeal to readers of all ages. A collection that captures love in all its forms, this book is a must-read for readers of short fiction. The stories have been compiled thematically and have been selected by Ruskin Bond himself.",
+        "id": 17
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/024/9789388860024.jpg",
+        "title": "Ponniyin selvan",
+        "author": "Kalki",
+        "price": "₹1987",
+        "description": "Ponniyin Selvan is Kalki R Krishnamurthy's magnum opus, set in 10th century Tamil Nadu, exploring the early life of Emperor Rajaraja the 1st. It might have been written more than 60 years ago, but this saga is timeless, reeling in readers with a gripping plot interwoven with intrigue, conspiracies, mystery, romance and adventure. Fresh Floods is Book 1 of a total of five volumes. Who is the rightful heir to the ancient Chozha throne? Will Madhuranthakar-son of the eldest son-or Aditha Karikalan-the grandson of the younger-wear the crown? And will justice prevail in this struggle for power? Follow our young, enthusiastic hero Vallavarayan Vandhiyathevan on his fascinating journey, as this historical fiction based on real characters and incidents unfolds at a spell-binding pace, delving deep into human tendencies, desires, personal motives, political ambitions and the fight to gain power at all costs.",
+        "id": 18
+  
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/images200/323/9781501193323.jpg",
+        "title": "All Your Perfects",
+        "author": "Colleen Hoover",
+        "price": "₹599",
+        "description": "All Your Perfects is a profound novel about a damaged couple whose potential future hinges on promises made in the past. This is a heartbreaking page-turner that asks: Can a resounding love with a perfect beginning survive a lifetime between two imperfect people?",
+        "id": 19
+  
+      },
+  
+      {
+  
+        "image": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
+        "title": "Red, White & Royal Blue",
+        "author": "Casey McQuiston ",
+        "price": "₹924",
+        "description": "Red, White & Royal Blue is outrageously fun. It is romantic, sexy, witty, and thrilling",
+        "id": 20
+  
+      },
+  
+      {
+  
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/062/9780062918062.jpg",
+        "title": "The Upside of Falling",
+        "author": "Alex Light",
+        "price": "₹949",
+        "description": "A fun, flirty teen debut from Wattpad phenom Alex Light about a fake relationship and real love. Perfect for Jenny Han fans.",
+        "id": 21
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/039/9781401958039.jpg",
+        "title": "The Light Seer's Tarot",
+        "author": "Chris-Anne",
+        "price": "₹1281",
+        "description": "By reimagining the traditional tarot archetypes and symbols in a contemporary, boho, and intuitive style, The Light Seer's Tarot expresses the light and shadow sides of our natures and explores the lessons that can be learned from both.",
+        "id": 22
+  
+      },
+  
+      {
+  
+        "serialno": 1,
+        "image": "https://www.bookswagon.com/productimages/images200/017/9781569319017.jpg",
+        "title": "One Piece, Vol. 1",
+        "author": "Eiichiro Oda",
+        "price": "₹548",
+        "description": "As a child, Monkey D. Luffy dreamed of becoming King of the Pirates. But his life changed when he accidentally gained the power to stretch like rubber...at the cost of never being able to swim again! Years, later, Luffy sets off in search of the One Piece,said to be the greatest treasure in the world...",
+        "id": 23
+      },
+  
+      {
+  
+        "serialno": 2,
+        "image": "https://www.bookswagon.com/productimages/images200/000/9781569319000.jpg",
+        "title": "Naruto, Vol.1",
+        "author": "Masashi Kishimoto",
+        "price": "₹548",
+        "description": "Naruto is a young shinobi with an incorrigible knack for mischief. He's got a wild sense of humor, but Naruto is completely serious about his mission to be the world's greatest ninja!",
+        "id": 24
+  
+      },
+  
+      {
+        "serialno": 3,
+        "image": "https://www.bookswagon.com/productimages/images200/928/9781421539928.jpg",
+        "title": "Bleach (3-In-1 Edition), Vol. 1, 1 ",
+        "author": " Tite Kubo",
+        "price": "₹774",
+        "description": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits, and along with Rukia--who is slowly regaining her powers--it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace.",
+        "id": 25
+      },
+  
+      {
+        "serialno": 4,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/990/9781974719990.jpg",
+        "title": "One Piece, Vol. 96 ",
+        "author": "Eiichiro Oda",
+        "price": "₹840",
+        "description": "During his journey with Whitebeard's crew, Oden encounters the legendary future pirate king Gold Roger! What does their meeting mean for the world? And what has Orochi been up to while Oden was gone from Wano?!",
+        "id": 26
+  
+      },
+  
+      {
+        "serialno": 5,
+        "image": "https://www.bookswagon.com/productimages/images200/677/9781421587677.jpg",
+        "title": "Haikyu!!, Vol. 2 ",
+        "author": "Haruichi Furudate",
+        "price": "₹506",
+        "description": "After proving themselves to be the ultimate combination in their practice match against Kei Tsukishima, Kageyama and Hinata are finally allowed to join the club! Hinata's true power--to perfectly time his spikes with his eyes closed--is awakened, and nothing can seem to stop this crazy setter-spiker duo. Now their skills are about to be put to the test at a practice game against one of Kageyama's former teammates from middle school, Tohru Oikawa.",
+        "id": 27
+      },
+  
+      {
+        "serialno": 6,
+        "image": "https://www.bookswagon.com/productimages/images200/418/9781591164418.jpg",
+        "title": "Bleach, Vol. 1 ",
+        "author": "Tite Kubo ",
+        "price": "₹592",
+        "description": "Part-time student, full-time Soul Reaper, Ichigo is one of the chosen few guardians of the afterlife.",
+        "id": 28
+      },
+  
+      {
+        "serialno": 7,
+        "image": "https://www.bookswagon.com/productimages/images200/757/9781421579757.jpg",
+        "title": "Naruto, Vol. 70",
+        "author": "Masashi Kishimoto",
+        "price": "₹840",
+        "description": "In order to face off against Madara and his newly acquired Six Paths power, Guy pulls out his most dangerous move. Guy has put his very life on the line, but is it enough against Madara? Meanwhile, as Naruto fights on the edge of death, he meets a special figure who may change the entire direction of the battle!",
+        "id": 29
+      },
+  
+      {
+        "serialno": 8,
+        "image": "https://www.bookswagon.com/productimages/images200/523/9781974700523.jpg",
+        "title": "Demon Slayer: Kimetsu No Yaiba, Vol. 1",
+        "author": "Koyoharu Gotouge",
+        "price": "₹532",
+        "description": "Tanjiro sets out on the path of the Demon Slayer to save his sister and avenge his family!",
+        "id": 30
+      },
+  
+      {
+        "serialno": 9,
+        "image": "https://www.bookswagon.com/productimages/images200/591/9781421539591.jpg",
+        "title": "One Piece, Vol.59",
+        "author": "Eiichiro Oda",
+        "price": "₹552",
+        "description": "After risking everything he had to save his brother, Luffy experiences heartbreak as Ace dies in his arms. Whitebeard will make one last stand against the Navy forces but when the epic pirate war finally comes to an end, the entire world will be shaken!",
+        "id": 31
+      },
+  
+      {
+        "serialno": 10,
+        "image": "https://www.bookswagon.com/productimages/images200/660/9781421587660.jpg",
+        "title": "Haikyu!!, Vol. 1 ",
+        "author": "Haruichi Furudate",
+        "price": "₹582",
+        "description": "Ever since he saw the legendary player known as the Little Giant compete at the national volleyball finals, Shoyo Hinata has been aiming to be the best volleyball player ever! Who says you need to be tall to play volleyball when you can jump higher than anyone else?",
+        "id": 32
+  
+      },
+  
+      {
+        "serialno": 11,
+        "image": "https://www.bookswagon.com/productimages/images200/434/9781421528434.jpg",
+        "title": "Naruto, Vol. 42 ",
+        "author": "Masashi Kishimoto",
+        "price": "₹830",
+        "description": "To truly end the Akatsuki's reign of pain, Naruto's teacher Jiraiya must delve deep into the past to uncover the secret of Pain's origin. At the same time, Sasuke moves toward the final battle of the Uchiha brothers when he closes in on the elusive Itachi!",
+        "id": 33
+  
+      },
+  
+      {
+        "serialno": 12,
+        "image": "https://www.bookswagon.com/productimages/images200/456/9781421506456.jpg",
+        "title": "Hunter X Hunter, Vol. 10",
+        "author": "Yoshihiro Togashi",
+        "price": "₹548",
+        "description": "Plucky Gon's quest to find his dad leads him into a whole world of crazy adventure.",
+        "id": 34
+  
+      },
+  
+      {
+        "serialno": 13,
+        "image": "https://www.bookswagon.com/productimages/images200/820/9781421558820.jpg",
+        "title": "Bleach, Vol. 57 ",
+        "author": "Tite Kubo",
+        "price": "₹830",
+        "description": "With Ichigo trapped in Hueco Mundo, the Soul Society comes under attack by a mysterious group of warriors calling themselves the Vandenreich. The Soul Reaper captains valiantly stand up to the invaders, but this is a battle they might not be able to win!",
+        "id": 35
+  
+      },
+  
+      {
+        "serialno": 14,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/381/9781974728381.jpg",
+        "title": "Demon Slayer: Kimetsu No Yaiba--Stories of Water and Flame ",
+        "author": "Ryoji Hirano",
+        "price": "₹580",
+        "description": "Savage demons devour unsuspecting humans in Taisho-era Japan. Armed with special swords, the Demon Slayer Corps fights to stop the devastation demons spread. Giyu Tomioka, the sole Water Hashira, and Kyojuro Rengoku, a high-ranking Kinoe, embark on missions to eliminate demons and prove their mettle as two of the fiercest Demon Slayers.",
+        "id": 36
+  
+      },
+  
+      {
+        "serialno": 15,
+        "image": "https://www.bookswagon.com/productimages/images200/244/9781612620244.jpg",
+        "title": "Attack on Titan 1",
+        "author": "Hajime Isayama",
+        "price": "₹799",
+        "description": "In this post-apocalyptic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
+        "id": 37
+  
+      },
+  
+      {
+        "serialno": 16,
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/122/9781974718122.jpg",
+        "title": "Haikyu!!, Vol. 41 ",
+        "author": "Haruichi Furudate",
+        "price": "₹540",
+        "description": "It's the second game of day 3, the roughest part of the Spring Tournament schedule. Even though Karasuno has run away with set 2, Kamomedai's focused, disciplined blocking doesn't budge! Undeterred, Hinata keeps searching for new ways to get over that wall. But after all his efforts, disaster strikes!",
+        "id": 38
+  
+      },
+  
+      {
+        "serialno": 17,
+        "image": "https://www.bookswagon.com/productimages/images200/471/9781421596471.jpg",
+        "title": "Dragon Ball Super, Vol.2",
+        "author": "Akira Toriyama",
+        "price": "₹595",
+        "description": "Ever since Goku became Earth's greatest hero and gathered the seven Dragon Balls to defeat the evil Boo, his life on Earth has grown a little dull. But new threats loom overhead, and Goku and his friends will have to defend the planet once again in this continuation of Akira Toriyama's best-selling series, Dragon Ball!",
+        "id": 39
+  
+      },
+  
+      {
+        "serialno": 18,
+        "image": "https://www.bookswagon.com/productimages/images200/295/9781421529295.jpg",
+        "title": "Naruto, Vol. 43",
+        "author": "Masashi Kishimoto",
+        "price": "₹830",
+        "description": "The time has come for the secrets of the Uchiha to be told. What Sasuke finally finds out about his family's damaged past will rock Naruto's former teammate to the core of his existence. Prepare for the ultimate reveal. It's time to change the world of Naruto forever!",
+        "id": 40
+  
+      },
+  
+      {
+        "serialno": 19,
+        "image": "https://www.bookswagon.com/productimages/images200/324/9781642750324.jpg",
+        "title": "I Want to Eat Your Pancreas: The Complete Manga Collection ",
+        "author": "Yoru Sumino ",
+        "price": "₹1123",
+        "description": "Also known as Let Me Eat Your Pancreas, the manga version of the coming-of-age novel that inspired two films! In this deeply moving first-person story, an introverted high school boy finds his classmate's diary--and learns her biggest secret. Yamauchi Sakura is dying from a pancreatic disease and now he is the only one person outside her family to know the truth. The last thing the boy wants is to be her friend, but Sakura's cheerful demeanor and their shared secret draw them together in this heartrending tale of friendship and mortality.",
+        "id": 41
+  
+      },
+  
+      {
+        "serialno": 20,
+        "image": "https://www.bookswagon.com/productimages/images200/556/9780316558556.jpg",
+        "title": "Your Name., Vol. 1",
+        "author": "Makoto Shinkai",
+        "price": "₹809",
+        "description": "A story of two people determined to hold on to one another.Mitsuha, a high school girl from a town deep in the mountains, dreams of an unfamiliar life in Tokyo. Taki, a high school boyfrom Tokyo, dreams that he is a girl living in the mountains. Asthe two begin swapping lives, a miraculous story is set in motion.",
+        "id": 42
+  
+      },
+  
+      {
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLAFxaQw_xDT9ntybqVCfLASntJv4zSJwB5Hs8f0LHhrzTjcMkqnVP-jZusurySWwqbtFt1CRjsbcVGLJcW_freTmgWwh-XvoZRgBpz2tLSBIUlY9Ig4nbrmckZWOY5cQZPQ&usqp=CAc",
+        "title": "One Piece, Vol.100",
+        "author": "Eiichiro Oda",
+        "price": "₹503",
+        "description": "The big powers converge as Luffy, Law, and Kid face off against Kaido and Big Mom. Is there any hope of victory against this ultimate alliance?! Onigashima quakes with power as some of the fiercest pirates in the world go head-to-head!!",
+        "id": 43
+  
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/287/9781974736287.jpg",
+        "title": "Spy X Family",
+        "author": "Tatsuya Endo",
+        "price": "₹578",
+        "description": "An action-packed comedy about a fake family that includes a spy, an assassin and a telepath!Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment--to get married and have a kid--he may finally be in over his head!",
+        "id": 44
+  
+      },
+  
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/939/9781974709939.jpg",
+        "title": "Chainsaw man",
+        "author": "Tatsuki Fujimoto",
+        "price": "₹577",
+        "description": "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous--Chainsaw Man!",
+        "id": 45
+  
+      },
+  
+      {
+        "image": "https://www.bookswagon.com/productimages/mainimages/000/9781569319000.jpg",
+        "title": "Naruto, Vol. 1",
+        "author": "Masashi Kishimoto",
+        "price": "₹548",
+        "description": "Naruto is a young shinobi with an incorrigible knack for mischief. He's got a wild sense of humor, but Naruto is completely serious about his mission to be the world's greatest ninja!",
+        "id": 46
+      },
+  
+      {
+        "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/279/9781974717279.jpg",
+        "title": "Chainsaw Man, Vol. 4",
+        "author": "Tatsuki Fujimoto",
+        "price": "₹614",
+        "description": "Denji was a small-time devil hunter just trying to survive in a harsh world. After being killed on a job, he is revived by his pet devil Pochita and becomes something new and dangerous--Chainsaw Man!",
+        "id": 47
+      }
+  
+    ]
+  }

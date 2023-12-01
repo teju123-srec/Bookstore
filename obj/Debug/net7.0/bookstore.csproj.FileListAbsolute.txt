@@ -1,0 +1,233 @@
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\appsettings.json
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\bookstore.exe
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\bookstore.deps.json
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\bookstore.runtimeconfig.json
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\bookstore.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\bookstore.pdb
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aesiv\Desktop\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.AssemblyReference.cache
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.AssemblyInfoInputs.cache
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.AssemblyInfo.cs
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.bookstore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.build.bookstore.props
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bookstore.props
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bookstore.props
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\scopedcss\bundle\bookstore.styles.css
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.CopyComplete
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.dll
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\refint\bookstore.dll
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.pdb
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\bookstore.genruntimeconfig.cache
+C:\Users\aesiv\Desktop\book api\bookstore\obj\Debug\net7.0\ref\bookstore.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.AssemblyReference.cache
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.AssemblyInfoInputs.cache
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.AssemblyInfo.cs
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\refint\bookstore.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.pdb
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\appsettings.json
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\bookstore.exe
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\bookstore.deps.json
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\bookstore.runtimeconfig.json
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\bookstore.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\bookstore.pdb
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.bookstore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.build.bookstore.props
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bookstore.props
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bookstore.props
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\scopedcss\bundle\bookstore.styles.css
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.CopyComplete
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\bookstore.genruntimeconfig.cache
+C:\Users\varun\Downloads\book api\book api\bookstore\obj\Debug\net7.0\ref\bookstore.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\appsettings.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\bookstore.exe
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\bookstore.deps.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\bookstore.runtimeconfig.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\bookstore.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\bookstore.pdb
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.AssemblyReference.cache
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.AssemblyInfoInputs.cache
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.AssemblyInfo.cs
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.bookstore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.build.bookstore.props
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.bookstore.props
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.bookstore.props
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\scopedcss\bundle\bookstore.styles.css
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.csproj.CopyComplete
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\refint\bookstore.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.pdb
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\bookstore.genruntimeconfig.cache
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\obj\Debug\net7.0\ref\bookstore.dll
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\booksjson.json
+C:\Users\aesiv\Desktop\books api\book api\book api\bookstore\bin\Debug\net7.0\Newtonsoft.Json.dll
